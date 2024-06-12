@@ -4,6 +4,29 @@
   
   
   <entry>
+    <title>AFLNET: A Greybox Fuzzer for Network Protocols</title>
+    <link href="/2024/06/11/AFLNET-A-Greybox-Fuzzer-for-Network-Protocols/"/>
+    <url>/2024/06/11/AFLNET-A-Greybox-Fuzzer-for-Network-Protocols/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/source/_posts/AFLNET-A-Greybox-Fuzzer-for-Network-Protocols/aflnet-1.png" alt="aflnet-1.png"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>paper reading</tag>
+      
+      <tag>fuzzers</tag>
+      
+      <tag>protocol</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/06/11/hello-world/"/>
     <url>/2024/06/11/hello-world/</url>
